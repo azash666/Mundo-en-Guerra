@@ -51,17 +51,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\LookCamera.cs" />
-     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
-     <Compile Include="Assets\StarTools\Assets\CoronaRotator.cs" />
-     <Compile Include="Assets\StarTools\Assets\Misc\CamCont.cs" />
-     <Compile Include="Assets\StarTools\Assets\Misc\MorphStar.cs" />
-     <Compile Include="Assets\StarTools\Assets\Star.cs" />
-     <Compile Include="Assets\StarTools\Assets\StarRotator.cs" />
-     <None Include="Assets\StarTools\Assets\3DStarShader.shader" />
-     <None Include="Assets\StarTools\Assets\CoronaShader.shader" />
-     <None Include="Assets\StarTools\Assets\WebGLNoisePort\noiseSimplex.cginc" />
-     <None Include="Assets\StarTools\Assets\noiseHelper.cginc" />
+     <Compile Include="Assets\Cosas descargadas\SpaceSkies Free\Demo\Scripts\LookCamera.cs" />
+     <Compile Include="Assets\Cosas descargadas\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
+     <Compile Include="Assets\Cosas descargadas\StarTools\Assets\CoronaRotator.cs" />
+     <Compile Include="Assets\Cosas descargadas\StarTools\Assets\Misc\CamCont.cs" />
+     <Compile Include="Assets\Cosas descargadas\StarTools\Assets\Misc\MorphStar.cs" />
+     <Compile Include="Assets\Cosas descargadas\StarTools\Assets\Star.cs" />
+     <Compile Include="Assets\Cosas descargadas\StarTools\Assets\StarRotator.cs" />
+     <Compile Include="Assets\gravedad.cs" />
+     <Compile Include="Assets\Scripts\detectaRueda.cs" />
+     <Compile Include="Assets\Scripts\equilibrio.cs" />
+     <Compile Include="Assets\Scripts\movimiento.cs" />
+     <None Include="Assets\Cosas descargadas\StarTools\Assets\3DStarShader.shader" />
+     <None Include="Assets\Cosas descargadas\StarTools\Assets\CoronaShader.shader" />
+     <None Include="Assets\Cosas descargadas\StarTools\Assets\WebGLNoisePort\noiseSimplex.cginc" />
+     <None Include="Assets\Cosas descargadas\StarTools\Assets\noiseHelper.cginc" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
