@@ -58,9 +58,12 @@
      <Compile Include="Assets\Cosas descargadas\StarTools\Assets\Misc\MorphStar.cs" />
      <Compile Include="Assets\Cosas descargadas\StarTools\Assets\Star.cs" />
      <Compile Include="Assets\Cosas descargadas\StarTools\Assets\StarRotator.cs" />
-     <Compile Include="Assets\gravedad.cs" />
+     <Compile Include="Assets\Scripts\creaBases.cs" />
      <Compile Include="Assets\Scripts\detectaRueda.cs" />
+     <Compile Include="Assets\Scripts\enderezador.cs" />
      <Compile Include="Assets\Scripts\equilibrio.cs" />
+     <Compile Include="Assets\Scripts\estrella.cs" />
+     <Compile Include="Assets\Scripts\gravedad.cs" />
      <Compile Include="Assets\Scripts\movimiento.cs" />
      <None Include="Assets\Cosas descargadas\StarTools\Assets\3DStarShader.shader" />
      <None Include="Assets\Cosas descargadas\StarTools\Assets\CoronaShader.shader" />
