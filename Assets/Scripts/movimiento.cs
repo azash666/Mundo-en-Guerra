@@ -19,7 +19,7 @@ public class movimiento : MonoBehaviour
 
 
 	//public GameObject huecoBala;
-	private float fuerza;
+	public float fuerza;
 	//public float fuerzaAngular;
 	//[SyncVar]
 	private float rotacionVertical;
@@ -35,7 +35,7 @@ public class movimiento : MonoBehaviour
 	void Start()
 	{
 		//Cursor.visible = false;
-		fuerza = 5000f;
+		fuerza = 1000f;
 		/*if(isLocalPlayer)
 			Instantiate (camara, huecoCamara.transform.position, huecoCamara.transform.rotation).transform.parent=huecoCamara.transform;*/
 		rb = GetComponent<Rigidbody>();
